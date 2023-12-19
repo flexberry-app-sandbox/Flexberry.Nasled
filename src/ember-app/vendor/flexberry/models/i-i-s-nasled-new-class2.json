@@ -1,0 +1,30 @@
+﻿{
+  "name": "IISNasledNewClass2",
+  "modelName": "i-i-s-nasled-new-class2",
+  "className": "NewClass2",
+  "nameSpace": "IIS.Nasled",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "NewClass2E",
+      "modelName": "i-i-s-nasled-new-class2",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "NewClass2L",
+      "modelName": "i-i-s-nasled-new-class2",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

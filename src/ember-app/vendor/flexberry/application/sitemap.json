@@ -1,0 +1,29 @@
+﻿{
+  "applicationCaption": "Nasled",
+  "applicationTitle": "Nasled",
+  "items": [
+    {
+      "link": null,
+      "menuName": "nasled",
+      "caption": "Nasled",
+      "title": "Nasled",
+      "children": [
+        {
+          "link": "i-i-s-nasled-new-class1-l",
+          "menuName": null,
+          "caption": "New class1",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-nasled-new-class2-l",
+          "menuName": null,
+          "caption": "New class2",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

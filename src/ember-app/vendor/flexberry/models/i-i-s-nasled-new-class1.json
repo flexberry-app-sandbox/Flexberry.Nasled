@@ -1,0 +1,75 @@
+﻿{
+  "name": "IISNasledNewClass1",
+  "modelName": "i-i-s-nasled-new-class1",
+  "className": "NewClass1",
+  "nameSpace": "IIS.Nasled",
+  "parentModelName": "i-i-s-nasled-new-class2",
+  "parentClassName": "NewClass2",
+  "attrs": [
+    {
+      "name": "код",
+      "type": "number",
+      "flexberryType": "int",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "строка",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "NewClass1E",
+      "modelName": "i-i-s-nasled-new-class1",
+      "attrs": [
+        {
+          "name": "код",
+          "caption": "Код",
+          "hidden": false,
+          "index": 0
+        },
+        {
+          "name": "строка",
+          "caption": "Строка",
+          "hidden": false,
+          "index": 1
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "NewClass1L",
+      "modelName": "i-i-s-nasled-new-class1",
+      "attrs": [
+        {
+          "name": "код",
+          "caption": "Код",
+          "hidden": false,
+          "index": 0
+        },
+        {
+          "name": "строка",
+          "caption": "Строка",
+          "hidden": false,
+          "index": 1
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

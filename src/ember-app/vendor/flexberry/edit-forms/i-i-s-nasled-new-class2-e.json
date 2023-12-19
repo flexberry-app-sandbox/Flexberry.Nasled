@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "New class2",
+  "name": "IISNasledNewClass2E",
+  "className": "NewClass2E",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-nasled-new-class2",
+      "modelProjection": "NewClass2E"
+    }
+  ]
+}

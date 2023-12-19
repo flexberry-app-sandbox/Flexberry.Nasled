@@ -1,0 +1,1 @@
+docker-compose -p nasled-java up -d
